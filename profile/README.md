@@ -1,4 +1,4 @@
-![Open Range Org](https://github.com/OpenRangeOrg/OpenRangeOrg.github.io/blob/main/OpenRangeOrg-codebase/src/assets/openorglogoblack.png?raw=true)
+![Open Range Org](https://raw.githubusercontent.com/OpenRangeOrg/OpenRangeOrg.github.io/refs/heads/main/docs/assets/openorglogoblack.png)
 ## We are open to all 👋 [![Open Range](https://img.shields.io/badge/open-range-blue.svg?style=flat)](https://OpenRangeOrg.github.io)
 ### https://OpenRangeOrg.github.io
 
